@@ -471,7 +471,7 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 👨‍💻 Author
 
-Built with ❤️ for VirgoSoft Technical Assessment
+Built with ❤️ for Dwarkesh Technical Assessment
 
 ---
 
